@@ -1,4 +1,5 @@
 ---
+title: \*SEM 2025
 layout: splash
 permalink: /
 header:
@@ -8,6 +9,6 @@ header:
 excerpt: Co-located with EMNLP 2025 in Suzhou, China
 ---
 
-# *SEM 2025
+## Welcome!
 
 More information will be coming soon!
