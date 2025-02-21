@@ -1,3 +1,11 @@
 main:
+  - title: Home
+    url: /
+  - title: Speakers
+    url: /speakers
+  - title: Call for Papers
+    url: /cfp
+  - title: Schedule
+    url: /schedule
   - title: Committee
     url: /committee
