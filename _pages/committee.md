@@ -4,11 +4,11 @@ permalink: /committee
 ---
 
 ## General Chair
-- Vered Shwartz, University of British Columbia
+- [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/), University of British Columbia
 
 ## Program Chairs
 - [Lea Frermann](http://frermann.de/), University of Melbourne
-- Mark Stevenson, Sheffield University
+- [Mark Stevenson](https://www.sheffield.ac.uk/cs/people/academic/mark-stevenson), Sheffield University
 
 ## Publication Chairs
 - [Danilo Croce](https://art.uniroma2.it/croce/), University of Rome "Tor Vergata"
