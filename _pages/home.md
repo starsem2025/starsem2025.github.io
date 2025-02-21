@@ -11,7 +11,7 @@ excerpt: Co-located with EMNLP 2025 in Suzhou, China
 
 ## News
 
-**21 February 2025**. *SEM 2025 website is live!
+**21 February 2025**. *SEM 2025 website is live! Please follow our socials too: [Bluesky](https://bsky.app/profile/starsem.bsky.social) and [LinkedIn](https://www.linkedin.com/company/starsem).
 {: .notice--info}
 
 ## Welcome!
