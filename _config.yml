@@ -67,3 +67,16 @@ defaults:
     values:
       layout: single
 
+# Hides ATOM/RSS feed on footer
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: Bluesky
+      url: https://bsky.app/profile/starsem.bsky.social
+      icon: "fa-brands fa-square-bluesky"
+    - label: LinkedIn
+      url: https://www.linkedin.com/company/starsem
+      icon: "fa-brands fa-linkedin"
+
