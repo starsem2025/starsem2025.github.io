@@ -34,3 +34,7 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 ## Important Dates
 
 Please see [Important Dates](/#important-dates).
+
+## Questions?
+
+Please email the PCs: [Lea Frermann](mailto:lea.frermann@unimelb.edu.au) and [Mark Stevenson](mailto:mark.stevenson@sheffield.ac.uk).
