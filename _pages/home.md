@@ -23,20 +23,24 @@ The 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025) is 
 <table>
   <tbody>
     <tr>
-      <td>Direct submission deadline</td>
-      <td>2 Jun 2025</td>
+      <td>Direct submission deadline (long & short papers)</td>
+      <td>May 30, 2025</td>
     </tr>
     <tr>
-      <td>ARR commitment deadline</td>
-      <td>22 Aug 2025</td>
+      <td>ARR-reviewed submission deadline (long & short papers)</td>
+      <td>August 22, 2025</td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
-      <td>7 Sep 2025</td>
+      <td>September 5, 2025</td>
     </tr>
     <tr>
-      <td>Camera-ready due</td>
-      <td>17 Sep 2025</td>
+      <td>Camera-ready deadline</td>
+      <td>September 26, 2025</td>
+    </tr>
+    <tr>
+      <td>Conference date</td>
+      <td>TBA (co-located with EMNLP 2025)</td>
     </tr>
   </tbody>
 </table>
