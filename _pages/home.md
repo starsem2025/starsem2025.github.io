@@ -11,7 +11,10 @@ excerpt: Co-located with EMNLP 2025 in Suzhou, China
 
 ## News
 
-**21 February 2025**. *SEM 2025 website is live! Please follow our socials too: [Bluesky](https://bsky.app/profile/starsem.bsky.social) and [LinkedIn](https://www.linkedin.com/company/starsem).
+**February 21, 2025**. *SEM 2025 website is live! Please follow our socials too: [Bluesky](https://bsky.app/profile/starsem.bsky.social) and [LinkedIn](https://www.linkedin.com/company/starsem).
+{: .notice--info}
+
+**March 17, 2025**. [First call for papers](/cfp) is out!
 {: .notice--info}
 
 ## Welcome!
@@ -19,6 +22,9 @@ excerpt: Co-located with EMNLP 2025 in Suzhou, China
 The 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025) is organized and sponsored by SIGLEX, the Special Interest Group of the [ACL](https://www.aclweb.org/portal/). *SEM brings together researchers interested in the semantics of natural languages and its computational modeling. The conference embraces data-driven, neural, and probabilistic approaches, as well as symbolic approaches and everything in between; practical applications as well as theoretical contributions are welcome. The long-term goal of *SEM is to provide a stable forum for the growing number of NLP researchers working on all aspects of semantics of (many and diverse!) natural languages.
 
 ## Important Dates
+
+All deadlines are 11:59pm UTC-12h, AoE
+{: .notice--info}
 
 <table>
   <tbody>

@@ -27,3 +27,10 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 
 **Multiple submission policy:** *SEM does not prohibit the submission of work that is under consideration for another venue at the same time as the *SEM review period. However, authors of such papers will be asked to declare this at submission time.
 {: .notice--info}
+
+**Anonymity period:** Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy), there is no anonymity period requirement.
+{: .notice--info}
+
+## Important Dates
+
+Please see [Important Dates](/#important-dates).
