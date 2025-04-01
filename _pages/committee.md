@@ -26,3 +26,5 @@ permalink: /committee
 - [Abhilasha Ravichander](https://lasharavichander.github.io/), University of Washington / AllenAI
 - [Steven Bethard](https://bethard.github.io/), University of Arizona
 - [Jakob Prange](https://jakpra.github.io/), University of Augsburg
+- [Lucia Donatelli](https://www.hybrid-intelligence-centre.nl/who-is-who/lucia-donatelli/), VU Amsterdam
+- [Shira Wein](https://shirawein.github.io/), Amherst
