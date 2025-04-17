@@ -11,10 +11,13 @@ excerpt: Co-located with EMNLP 2025 in Suzhou, China
 
 ## News
 
-**February 21, 2025**. *SEM 2025 website is live! Please follow our socials too: [Bluesky](https://bsky.app/profile/starsem.bsky.social) and [LinkedIn](https://www.linkedin.com/company/starsem).
+**April 17, 2025**. [Second call for papers](/cfp) is out!
 {: .notice--info}
 
 **March 17, 2025**. [First call for papers](/cfp) is out!
+{: .notice--info}
+
+**February 21, 2025**. *SEM 2025 website is live! Please follow our socials too: [Bluesky](https://bsky.app/profile/starsem.bsky.social) and [LinkedIn](https://www.linkedin.com/company/starsem).
 {: .notice--info}
 
 ## Welcome!
