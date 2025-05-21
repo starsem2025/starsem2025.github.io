@@ -11,6 +11,9 @@ excerpt: Co-located with EMNLP 2025 in Suzhou, China
 
 ## News
 
+**May 21, 2025**. [Final call for papers](/cfp) is out!
+{: .notice--info}
+
 **April 17, 2025**. [Second call for papers](/cfp) is out!
 {: .notice--info}
 
