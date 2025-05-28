@@ -9,6 +9,9 @@ header:
 excerpt: Co-located with EMNLP 2025 in Suzhou, China
 ---
 
+*SEM offers [travel expense support](/subsidies) for lead student authors with an accepted paper.
+{: .notice--success}
+
 ## News
 
 **May 28, 2025**. Direct submission deadline has been [extended](/#important-dates)!
