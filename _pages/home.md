@@ -11,6 +11,9 @@ excerpt: Co-located with EMNLP 2025 in Suzhou, China
 
 ## News
 
+**May 28, 2025**. Direct submission deadline has been [extended](/#important-dates)!
+{: .notice--info}
+
 **May 21, 2025**. [Final call for DIRECT SUBMISSIONS](/cfp) is out!
 {: .notice--info}
 
@@ -36,7 +39,7 @@ All deadlines are 11:59pm UTC-12h, AoE
   <tbody>
     <tr>
       <td>Direct submission deadline (long & short papers)</td>
-      <td>May 30, 2025</td>
+      <td><del>May 30, 2025</del> <b>June 13, 2025</b></td>
     </tr>
     <tr>
       <td>ARR-reviewed submission deadline (long & short papers)</td>
