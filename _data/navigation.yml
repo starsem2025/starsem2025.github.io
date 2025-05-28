@@ -1,9 +1,17 @@
 main:
   - title: Speakers
     url: /speakers
-  - title: Call for Papers
+  - title: Calls
     url: /cfp
   - title: Schedule
     url: /schedule
   - title: Committee
     url: /committee
+
+calls:
+  - title: Call for
+    children:
+      - title: Conference papers
+        url: /cfp
+      - title: Travel subsidies
+        url: /subsidies

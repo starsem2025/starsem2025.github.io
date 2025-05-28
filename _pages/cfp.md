@@ -1,6 +1,8 @@
 ---
 title: Call for Papers
 permalink: /cfp
+sidebar:
+  nav: calls
 ---
 
 *SEM brings together researchers interested in the semantics of natural languages and its computational modeling. The conference embraces a wide range of approaches including data-driven, neural, probabilistic and symbolic; practical applications as well as theoretical contributions are welcome. The long-term goal of *SEM is to provide a forum for NLP researchers working on any aspect of natural language semantics.
