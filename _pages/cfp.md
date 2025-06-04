@@ -27,7 +27,7 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 <https://openreview.net/group?id=aclweb.org/StarSEM/2025/Conference>
 {: .notice--info}
 
-**Multiple submission policy:** *SEM does not prohibit the submission of work that is under consideration for another venue at the same time as the *SEM review period. However, authors of such papers will be asked to declare this at submission time.
+**Multiple submission policy:** *SEM allows the submission of work that is under consideration for another venue at the same time as the *SEM review period. However, authors of such papers will be asked to declare this at submission time by emailing the Program Chairs ([see below](/cfp#questions)).
 {: .notice--info}
 
 **Anonymity period:** Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy), there is no anonymity period requirement.
