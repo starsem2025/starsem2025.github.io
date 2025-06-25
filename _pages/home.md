@@ -14,6 +14,9 @@ excerpt: Co-located with EMNLP 2025 in Suzhou, China
 
 ## News
 
+**June 19, 2025**. *SEM will run on November 8-9, 2025!
+{: .notice--info}
+
 **May 28, 2025**. Direct submission deadline has been [extended](/#important-dates)!
 {: .notice--info}
 
