@@ -58,7 +58,7 @@ All deadlines are 11:59pm UTC-12h, AoE
     </tr>
     <tr>
       <td>Conference date</td>
-      <td>TBA (co-located with EMNLP 2025)</td>
+      <td>November 8-9, 2025 (co-located with EMNLP 2025)</td>
     </tr>
   </tbody>
 </table>
