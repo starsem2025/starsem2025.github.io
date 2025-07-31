@@ -14,6 +14,9 @@ excerpt: Co-located with EMNLP 2025 in Suzhou, China
 
 ## News
 
+**July 31, 2025**. Call for ARR commit papers! Commit your paper here: <https://openreview.net/group?id=aclweb.org/StarSEM/2025/ARR_Commitment>
+{: .notice--info}
+
 **June 19, 2025**. *SEM will run on November 8-9, 2025!
 {: .notice--info}
 

@@ -21,10 +21,10 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 
 ### Submission routes and deadlines
 
-*SEM solicits both direct submissions and  ACL Rolling Review (ARR) commitments. The deadline for direct submissions is ~~May 30, 2025~~ **June 13, 2025**, and these submissions will be reviewed by the *SEM2025 program committee. ACL Rolling Review (ARR) submissions can be committed to *SEM up to **August 22, 2025** (authors of ARR-reviewed papers need to include their OpenReview link with reviews in the submission form. Both types of submissions are made through OpenReview.
+*SEM solicits both direct submissions and ACL Rolling Review (ARR) commitments. The deadline for direct submissions is ~~May 30, 2025~~ **June 13, 2025**, and these submissions will be reviewed by the *SEM 2025 program committee. ACL Rolling Review (ARR) submissions can be committed to *SEM up to **August 22, 2025** (authors of ARR-reviewed papers need to include their OpenReview link with reviews in the submission form. Both types of submissions are made through OpenReview.
 
-**Direct submission link:**
-<https://openreview.net/group?id=aclweb.org/StarSEM/2025/Conference>
+**ARR commitment link:**
+<https://openreview.net/group?id=aclweb.org/StarSEM/2025/ARR_Commitment>
 {: .notice--info}
 
 **Multiple submission policy:** *SEM allows the submission of work that is under consideration for another venue at the same time as the *SEM review period. However, authors of such papers will be asked to declare this at submission time by emailing the Program Chairs ([see below](/cfp#questions)).
