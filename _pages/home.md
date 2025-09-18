@@ -14,6 +14,9 @@ excerpt: Co-located with EMNLP 2025 in Suzhou, China
 
 ## News
 
+**September 16, 2025**. We accept presentations of EMNLP Findings papers that fit the theme. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeDZITg6g7gro4AqYTi4Boh8f3vKUUv3gwydgWBAMmbP7gd-A/viewform) by September 24!
+{: .notice--info}
+
 **July 31, 2025**. Call for ARR commit papers! Commit your paper here: <https://openreview.net/group?id=aclweb.org/StarSEM/2025/ARR_Commitment>
 {: .notice--info}
 
@@ -57,6 +60,10 @@ All deadlines are 11:59pm UTC-12h, AoE
     <tr>
       <td>Notification of acceptance</td>
       <td>September 5, 2025</td>
+    </tr>
+    <tr>
+      <td><b>(NEW)</b> EMNLP Findings presentation registration</td>
+      <td>September 24, 2025</td>
     </tr>
     <tr>
       <td>Camera-ready deadline</td>
