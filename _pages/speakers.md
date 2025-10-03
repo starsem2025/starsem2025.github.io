@@ -7,7 +7,7 @@ We are delighted to announce that the esteemed speakers listed below have gracio
 
 ## Yue Zhang
 
-![](/assets/images/yue-zhang.png){: .align-center width="25%"}
+![Headshot of Yue Zhang, a professor at Westlake University](/assets/images/yue-zhang.png){: .align-center width="25%"}
 
 **On reasoning and generalization of LLMs**
 
