@@ -97,57 +97,86 @@ permalink: /schedule
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>09:00 - 10:30</td>
+      <td>Session 5: Virtual Poster Session</td>
+      <td>
+        <ul>
+          <li>AdvERSEM: Adversarial Robustness Testing and Training of LLM-based Groundedness Evaluators via Semantic Structure Manipulation</li>
+          <li>Evaluating Textual and Visual Semantic Neighborhoods of Abstract and Concrete Concepts</li>
+          <li>Explanations explained. Influence of Free-text Explanations on LLMs and the Role of Implicit Knowledge</li>
+          <li>How Do Large Language Models Evaluate Lexical Complexity?</li>
+          <li>HSGM: Hierarchical Segment-Graph Memory for Scalable Long-Text Semantics</li>
+          <li>If We May De-Presuppose: Robustly Verifying Claims through Presupposition-Free Question Decomposition</li>
+          <li>Injecting Frame Semantics into Large Language Models via Prompt-Based Fine-Tuning</li>
+          <li>Latent Traits and Cross-Task Transfer: Deconstructing Dataset Interactions in LLM Fine-tuning</li>
+          <li>LLMs as annotators of argumentation</li>
+          <li>SAG: Enhancing Domain-Specific Information Retrieval with Semantic-Augmented Graphs</li>
+          <li>Semantic Differentiation in Speech Emotion Recognition: Insights from Descriptive and Expressive Speech Roles</li>
+          <li>TAG–EQA: Text–And–Graph for Event Question Answering via Structured Prompting Strategies</li>
+          <li>Relation-Aware Prompting Makes Large Language Models Effective Zero-shot Relation Extractors</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10:30 - 11:00</td>
+      <td>Coffee Break</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11:00 - 12:30</td>
+      <td>Session 6: Invited Talk + Oral Session 3</td>
+      <td>
+        <ul>
+          <li><b>Invited talk 3: Yuki Arase (Tokyo Institute of Technology)</b></li>
+          <li>On the Distinctive Co-occurrence Characteristics of Antonymy</li>
+          <li>Soteria: Language-Specific Functional Parameter Steering for Multilingual Safety Alignment</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:30 - 14:00</td>
+      <td>Lunch</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14:00 - 15:30</td>
+      <td>Session 7: In-person Poster Session 2</td>
+      <td>
+        <ul>
+          <li>Hallucinated Span Detection with Multi-View Attention Features</li>
+          <li>Math Natural Language Inference: this should be easy!</li>
+          <li>Potentially Problematic Word Usages and How to Detect Them: A Survey</li>
+          <li>Semantic Prosody in Machine Translation: the English-Chinese Case of Passive Structures</li>
+          <li>WiC Evaluation in Galician and Spanish: Effects of Dataset Quality and Composition</li>
+          <li>Attributes as Textual Genes: Leveraging LLMs as Genetic Algorithm Simulators for Conditional Synthetic Data Generation</li>
+          <li>Bhaasha, Bhasa, Zaban: A Survey for Low-Resourced Languages in South Asia – Current Stage and Challenges</li>
+          <li>On the Distinctive Co-occurrence Characteristics of Antonymy</li>
+          <li>SCDTour: Embedding Axis Ordering and Merging for Interpretable Semantic Change Detection</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15:30 - 16:00</td>
+      <td>Coffee Break</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16:00 - 17:30</td>
+      <td>Session 8: Oral Session 4 + Closing</td>
+      <td>
+        <ul>
+          <li>Towards Evaluation of Language Models with Skill Dimensions: A Case Study on Narrative Question Answering </li>
+          <li>CAPE: Context-Aware Personality Evaluation Framework for Large Language Models</li>
+          <li>CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation</li>
+          <li>MoMentS: A Comprehensive Multimodal Benchmark for Theory of Mind</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Closing Remarks (incl. Best Paper Awards)</td>
+    </tr>
   </tbody>
 </table>
-# TODO
-9 - 10:30
-Session 5: Virtual poster session
-AdvERSEM: Adversarial Robustness Testing and Training of LLM-based Groundedness Evaluators via Semantic Structure Manipulation
-Evaluating Textual and Visual Semantic Neighborhoods of Abstract and Concrete Concepts
-Explanations explained. Influence of Free-text Explanations on LLMs and the Role of Implicit Knowledge
-How Do Large Language Models Evaluate Lexical Complexity?
-HSGM: Hierarchical Segment-Graph Memory for Scalable Long-Text Semantics
-If We May De-Presuppose: Robustly Verifying Claims through Presupposition-Free Question Decomposition
-Injecting Frame Semantics into Large Language Models via Prompt-Based Fine-Tuning
-Latent Traits and Cross-Task Transfer: Deconstructing Dataset Interactions in LLM Fine-tuning
-LLMs as annotators of argumentation
-SAG: Enhancing Domain-Specific Information Retrieval with Semantic-Augmented Graphs
-Semantic Differentiation in Speech Emotion Recognition: Insights from Descriptive and Expressive Speech Roles
-TAG–EQA: Text–And–Graph for Event Question Answering via Structured Prompting Strategies
-Relation-Aware Prompting Makes Large Language Models Effective Zero-shot Relation Extractors
-
-
-Coffee break 10:30 - 11 
-
-11:00 - 12:30
-Session 6: Invited talk + Oral session 3
-
-Invited talk 3: Yuki Arase (Tokyo Institute of Technology)
-On the Distinctive Co-occurrence Characteristics of Antonymy
-Soteria: Language-Specific Functional Parameter Steering for Multilingual Safety Alignment
-
-Lunch 12:30 - 2
-
-2 : 3:30
-Session 7: In person poster session 2
-Hallucinated Span Detection with Multi-View Attention Features
-Math Natural Language Inference: this should be easy!
-Potentially Problematic Word Usages and How to Detect Them: A Survey
-Semantic Prosody in Machine Translation: the English-Chinese Case of Passive Structures
-WiC Evaluation in Galician and Spanish: Effects of Dataset Quality and Composition
-Attributes as Textual Genes: Leveraging LLMs as Genetic Algorithm Simulators for Conditional Synthetic Data Generation
-Bhaasha, Bhasa, Zaban: A Survey for Low-Resourced Languages in South Asia – Current Stage and Challenges
-On the Distinctive Co-occurrence Characteristics of Antonymy
-SCDTour: Embedding Axis Ordering and Merging for Interpretable Semantic Change Detection
-
-
-Coffee break 15:30 - 16:00
-
-16:00 – 17:30 Session 8: Oral session 4 + closing
-Towards Evaluation of Language Models with Skill Dimensions: A Case Study on Narrative Question Answering 
-CAPE: Context-Aware Personality Evaluation Framework for Large Language Models
-CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation
-MoMentS: A Comprehensive Multimodal Benchmark for Theory of Mind
-
-Closing remarks (incl. Best paper awards) 
-
