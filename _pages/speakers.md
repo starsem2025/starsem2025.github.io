@@ -15,4 +15,14 @@ We are delighted to announce that the esteemed speakers listed below have gracio
 
 **Bio:** Yue Zhang is a tenured Professor at Westlake University (<https://frcchang.github.io>). His research interests include fundamental NLP and its machine learning algorithms, and his recent research focuses on LLM reasoning and AI scientist. His major contributions to the field include machine learning algorithms for structured prediction (e.g., parsing and IE), neural NLP models (i.e., lattice and graph LSTM), and generalization for NLP/LM (e.g., OOD and logical reasoning). He co-authored the Cambridge University Press book "Natural Language Processing -- a Machine Learning Perspective". Yue Zhang served as a PC co-chair for CCL 2020, EMNLP 2022, and LMG 2025. He served as tutorial co-chair for ACL 2020, and test-of-time award committee co-chairs for ACL 2024 and 2025. He currently serves as editor-in-chief for the Large Language Model journal, action editor for TACL, and associate editor for TASLP, TALLIP, TBD, and CSL.
 
-## Keynote 2: TBD
+## Keynote 2: Yuki Arase
+
+![Headshot of Yuki Arase, a professor at Institute of Science Tokyo](/assets/images/yuki-arase.jpg){: .align-center width="25%"}
+
+**Grounding Text Complexity Control in Defined Linguistic Difficulty**
+
+**Abstract:** As large language models excel in generating fluent text, a fundamental question arises: how can we make such language understandable and appropriate for readers with diverse proficiency levels? While “text simplification” has long been studied in NLP, most approaches rely on vague or task-specific notions of difficulty. This talk introduces a framework that grounds text complexity control in a defined scale of linguistic difficulty, enabling models to adapt syntax, vocabulary, and meaning to reader proficiency in a principled and measurable way. I will present computational methods for sentence difficulty prediction, contextual lexical simplification, and proficiency-aligned rewriting, which optimize readability and meaning preservation. By moving from ad-hoc heuristics to standardized definitions, we establish text complexity control as a principled framework for studying how linguistic form, meaning, and proficiency interact in language understanding.
+
+**Bio:** Yuki Arase is a professor at the School of Computing, Institute of Science Tokyo (aka Tokyo Institute of Technology), Japan. After obtaining her PhD in Information Science from Osaka University in 2010, she worked for Microsoft Research Asia, where she started NLP research that continues to captivate her to this day. Her research interests focus on paraphrasing and NLP technology for language education and healthcare.
+
+## Keynote 3: TBD
