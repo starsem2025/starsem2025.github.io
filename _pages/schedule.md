@@ -128,7 +128,7 @@ permalink: /schedule
       <td>Session 6: Invited Talk + Oral Session 3</td>
       <td>
         <ul>
-          <li><b>Invited talk 3: Yuki Arase (Tokyo Institute of Technology)</b></li>
+          <li><b>Invited talk 3: Yuki Arase (Institute of Science Tokyo)</b></li>
           <li>On the Distinctive Co-occurrence Characteristics of Antonymy</li>
           <li>Soteria: Language-Specific Functional Parameter Steering for Multilingual Safety Alignment</li>
         </ul>
