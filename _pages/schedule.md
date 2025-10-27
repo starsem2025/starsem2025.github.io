@@ -15,7 +15,7 @@ permalink: /schedule
   </thead>
   <tbody>
     <tr>
-      <td>9:00 - 10:30</td>
+      <td>9:15 - 10:30</td>
       <td>Session 1: Opening Remarks and Invited Talk 1</td>
       <td>
         <ul>
