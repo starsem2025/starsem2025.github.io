@@ -35,7 +35,7 @@ permalink: /schedule
       <td>
         <ul>
           <li>AmbiStory: A Challenging Dataset of Lexically Ambiguous Short Stories</li>
-          <li>Cross-Lingual Extractive Question Answering with Unanswerable Questions</li>
+          <li>MoMentS: A Comprehensive Multimodal Benchmark for Theory of Mind</li>
           <li>DisCoCLIP: A Distributional Compositional Tensor Network Encoder for Vision-Language Understanding</li>
           <li>Generalizability of Media Frames: Corpus creation and analysis across countries</li>
         </ul>
@@ -73,7 +73,6 @@ permalink: /schedule
           <li>Connecting Concept Layers and Rationales to Enhance Language Model Interpretability</li>
           <li>Cross-Domain Persuasion Detection with Argumentative Features</li>
           <li>Enhancing Readability-Controlled Text Modification with Readability Assessment and Target Span Prediction</li>
-          <li>Evaluating Compositional Generalisation in VLMs and Diffusion Models</li>
           <li>From Complex Word Identification to Substitution: Instruction-Tuned Language Models for Lexical Simplification</li>
           <li>Knowledge Editing Induces Underconfidence in Language Models</li>
           <li>Towards Evaluation of Language Models with Skill Dimensions: A Case Study on Narrative Question Answering </li>
@@ -115,6 +114,8 @@ permalink: /schedule
           <li>Semantic Differentiation in Speech Emotion Recognition: Insights from Descriptive and Expressive Speech Roles</li>
           <li>TAG–EQA: Text–And–Graph for Event Question Answering via Structured Prompting Strategies</li>
           <li>Relation-Aware Prompting Makes Large Language Models Effective Zero-shot Relation Extractors</li>
+          <li>Cross-Lingual Extractive Question Answering with Unanswerable Questions</li>
+          <li>Evaluating Compositional Generalisation in VLMs and Diffusion Models</li>
         </ul>
       </td>
     </tr>
@@ -162,14 +163,13 @@ permalink: /schedule
       <td></td>
     </tr>
     <tr>
-      <td>16:00 - 17:30</td>
+      <td>16:00 - 17:15</td>
       <td>Session 8: Oral Session 4 + Closing</td>
       <td>
         <ul>
           <li>Towards Evaluation of Language Models with Skill Dimensions: A Case Study on Narrative Question Answering </li>
           <li>CAPE: Context-Aware Personality Evaluation Framework for Large Language Models</li>
           <li>CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation</li>
-          <li>MoMentS: A Comprehensive Multimodal Benchmark for Theory of Mind</li>
         </ul>
       </td>
     </tr>
