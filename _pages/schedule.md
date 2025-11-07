@@ -18,10 +18,10 @@ permalink: /schedule
       <td>9:15 - 10:30</td>
       <td>Session 1: Opening Remarks and Invited Talk 1</td>
       <td>
-        <ul>
+        <ol>
           <li>Opening Remarks</li>
           <li><b>Invited talk 1: Yue Zhang (Westlake)</b></li>
-        </ul>
+        </ol>
       </td>
     </tr>
     <tr>
@@ -33,12 +33,12 @@ permalink: /schedule
       <td>11:00 - 12:00</td>
       <td>Session 2: Oral Session 1</td>
       <td>
-        <ul>
+        <ol>
           <li>AmbiStory: A Challenging Dataset of Lexically Ambiguous Short Stories</li>
           <li>MoMentS: A Comprehensive Multimodal Benchmark for Theory of Mind</li>
           <li>DisCoCLIP: A Distributional Compositional Tensor Network Encoder for Vision-Language Understanding</li>
           <li>Generalizability of Media Frames: Corpus creation and analysis across countries</li>
-        </ul>
+        </ol>
       </td>
     </tr>
     <tr>
@@ -50,11 +50,11 @@ permalink: /schedule
       <td>14:00 - 15:30</td>
       <td>Session 3: Invited Talk 2 + Oral session 2</td>
       <td>
-        <ul>
+        <ol>
           <li><b>Invited talk 2: Thamar Solorio (MBZUAI)</b></li>
           <li>Knowledge Editing Induces Underconfidence in Language Models</li>
           <li>Modeling Language Learning in Corrective Feedback Interactions</li>
-        </ul>
+        </ol>
       </td>
     </tr>
     <tr>
@@ -128,11 +128,11 @@ permalink: /schedule
       <td>11:00 - 12:30</td>
       <td>Session 6: Invited Talk + Oral Session 3</td>
       <td>
-        <ul>
+        <ol>
           <li><b>Invited talk 3: Yuki Arase (Institute of Science Tokyo)</b></li>
           <li>On the Distinctive Co-occurrence Characteristics of Antonymy</li>
           <li>Soteria: Language-Specific Functional Parameter Steering for Multilingual Safety Alignment</li>
-        </ul>
+        </ol>
       </td>
     </tr>
     <tr>
@@ -166,11 +166,11 @@ permalink: /schedule
       <td>16:00 - 17:15</td>
       <td>Session 8: Oral Session 4 + Closing</td>
       <td>
-        <ul>
+        <ol>
           <li>Towards Evaluation of Language Models with Skill Dimensions: A Case Study on Narrative Question Answering </li>
           <li>CAPE: Context-Aware Personality Evaluation Framework for Large Language Models</li>
           <li>CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation</li>
-        </ul>
+        </ol>
       </td>
     </tr>
     <tr>
